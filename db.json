@@ -1,0 +1,199 @@
+{
+  "policies": [
+    {
+      "id": 1,
+      "polnum": "POL001",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 2,
+      "polnum": "POL002",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"red"
+    },
+    {
+      "id": 3,
+      "polnum": "POL003",
+      "poltype":"car",
+      "insurer": "Allstate Insurance",
+      "description":"Auto policy renewed early",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 4,
+      "polnum": "POL004",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 5,
+      "polnum": "POL005",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 6,
+      "polnum": "POL006",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 7,
+      "polnum": "POL007",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 8,
+      "polnum": "POL008",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 9,
+      "polnum": "POL009",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 10,
+      "polnum": "POL010",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 11,
+      "polnum": "POL011",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 12,
+      "polnum": "POL012",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 13,
+      "polnum": "POL013",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    },
+    {
+      "id": 14,
+      "polnum": "POL014",
+      "poltype":"home",
+      "insurer": "Homeowners of A",
+      "description":"Dwelling policy for primary home",
+      "cost":"120.00",
+      "cost1":"0.00",
+      "term":"24.12.2022",
+      "term2":"24.12.2023",
+      "status":"green"
+    }
+
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "activities": [{
+    "name": "typicode"
+  }
+  ],
+  "limits":[
+    {
+
+    }
+  ],
+  "intelligence":[
+    {
+
+    }
+  ],
+  "claims":[
+    {
+
+    }
+  ]
+}
